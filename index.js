@@ -1,6 +1,5 @@
 // Write your solution here!
 const cats = ["Milo", "Otis", "Garfield"];
-// cats.push("Coco");
 
 function destructivelyAppendCat(name) {
   return cats.push(name);
